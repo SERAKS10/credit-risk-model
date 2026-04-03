@@ -1,0 +1,1001 @@
+age,job,credit_amount,duration,purpose,savings,employment,housing,default
+56,unskilled,5305,53,repairs,quite rich,>7 years,rent,0
+69,skilled,1306,50,car,rich,4-7 years,own,1
+46,unskilled,8702,60,business,rich,unemployed,rent,0
+32,skilled,2368,60,repairs,rich,4-7 years,own,0
+60,highly skilled,15061,23,car,quite rich,<1 year,rent,0
+25,highly skilled,16012,68,furniture,rich,4-7 years,own,0
+38,management,15399,52,repairs,quite rich,1-4 years,free,0
+56,highly skilled,16720,62,repairs,moderate,1-4 years,rent,1
+36,highly skilled,16434,50,business,little,>7 years,own,0
+40,highly skilled,5929,38,education,little,>7 years,rent,1
+28,unskilled,9576,22,education,quite rich,>7 years,rent,0
+28,highly skilled,4064,9,business,moderate,unemployed,rent,0
+41,highly skilled,1889,25,business,quite rich,>7 years,own,1
+70,management,12093,52,business,moderate,unemployed,free,0
+53,highly skilled,7774,20,education,rich,>7 years,free,1
+57,highly skilled,17708,52,business,moderate,unemployed,free,0
+41,skilled,19149,14,car,moderate,4-7 years,own,1
+20,management,17820,21,repairs,moderate,4-7 years,free,0
+39,management,11245,66,repairs,little,1-4 years,own,0
+70,management,14699,15,furniture,moderate,unemployed,rent,0
+19,management,16376,55,furniture,rich,<1 year,rent,0
+41,management,18680,8,repairs,rich,1-4 years,free,0
+61,management,8745,56,car,rich,4-7 years,own,0
+47,unskilled,7714,24,education,moderate,unemployed,rent,0
+55,highly skilled,1226,47,education,quite rich,>7 years,own,0
+19,management,19620,40,car,quite rich,<1 year,own,1
+38,highly skilled,14332,51,education,rich,4-7 years,rent,0
+50,highly skilled,11862,31,business,little,1-4 years,own,0
+29,unskilled,18797,69,repairs,quite rich,unemployed,rent,0
+39,management,10606,42,repairs,moderate,<1 year,rent,0
+61,skilled,8157,54,car,quite rich,unemployed,rent,0
+42,unskilled,19350,26,education,rich,>7 years,own,0
+66,skilled,15051,69,furniture,little,1-4 years,rent,1
+44,highly skilled,8406,10,furniture,quite rich,unemployed,own,1
+59,highly skilled,7787,9,education,quite rich,4-7 years,rent,0
+45,unskilled,1392,44,furniture,rich,1-4 years,rent,0
+33,unskilled,10722,40,car,little,4-7 years,free,0
+32,skilled,5175,6,car,little,unemployed,free,0
+64,management,2433,29,education,rich,1-4 years,free,0
+68,skilled,18264,62,furniture,moderate,4-7 years,own,0
+61,unskilled,12373,46,car,quite rich,>7 years,own,0
+72,skilled,18174,59,car,moderate,>7 years,rent,0
+69,unskilled,18524,51,business,quite rich,unemployed,rent,0
+74,skilled,13739,65,business,quite rich,1-4 years,rent,1
+20,unskilled,11374,65,car,moderate,<1 year,rent,0
+54,unskilled,18102,62,education,rich,1-4 years,own,1
+68,unskilled,5516,36,repairs,rich,>7 years,rent,1
+24,management,14274,29,repairs,quite rich,4-7 years,rent,0
+38,skilled,10252,41,car,rich,<1 year,free,0
+26,skilled,17838,35,car,quite rich,unemployed,rent,0
+56,skilled,16085,29,car,rich,<1 year,rent,1
+35,unskilled,7791,35,education,quite rich,unemployed,rent,1
+21,skilled,1474,12,business,rich,<1 year,own,0
+42,skilled,4633,40,car,little,unemployed,free,0
+31,unskilled,15163,60,car,moderate,unemployed,rent,1
+67,highly skilled,4472,19,furniture,little,<1 year,rent,0
+26,unskilled,5795,15,education,moderate,<1 year,free,1
+43,skilled,14413,21,car,moderate,unemployed,rent,1
+70,unskilled,9605,59,furniture,quite rich,>7 years,own,0
+19,highly skilled,8728,49,repairs,moderate,<1 year,rent,0
+37,unskilled,10403,50,car,little,1-4 years,own,0
+45,skilled,3520,61,car,little,4-7 years,own,0
+64,highly skilled,9487,62,furniture,rich,unemployed,rent,0
+24,management,13380,26,education,little,unemployed,free,1
+61,skilled,5733,55,car,rich,4-7 years,own,1
+25,highly skilled,10016,38,repairs,moderate,>7 years,free,1
+64,highly skilled,15059,12,car,little,4-7 years,rent,0
+52,management,17201,20,repairs,moderate,<1 year,own,1
+31,unskilled,2896,37,business,little,4-7 years,rent,1
+34,unskilled,19046,25,business,little,unemployed,free,0
+53,skilled,19629,20,repairs,rich,4-7 years,rent,0
+67,management,2091,53,education,moderate,1-4 years,rent,0
+57,unskilled,11803,26,car,little,<1 year,own,1
+21,management,6683,47,car,quite rich,4-7 years,rent,0
+19,unskilled,1812,31,business,moderate,unemployed,rent,1
+23,highly skilled,7814,19,repairs,moderate,<1 year,rent,0
+71,unskilled,19267,62,car,moderate,unemployed,own,1
+59,management,2639,42,car,rich,>7 years,free,0
+21,highly skilled,15188,63,education,quite rich,1-4 years,free,0
+71,highly skilled,18588,26,furniture,moderate,>7 years,rent,0
+46,highly skilled,7424,8,business,little,1-4 years,own,0
+35,management,862,42,business,little,4-7 years,rent,1
+43,skilled,19488,54,furniture,rich,<1 year,free,0
+61,skilled,13981,24,car,little,4-7 years,own,0
+51,skilled,4238,17,education,moderate,1-4 years,free,0
+27,management,2969,66,education,little,1-4 years,free,0
+53,highly skilled,16606,46,business,moderate,1-4 years,own,0
+31,skilled,17440,38,education,little,unemployed,own,0
+48,management,9517,55,furniture,quite rich,<1 year,rent,1
+65,skilled,3308,38,car,rich,4-7 years,rent,0
+32,unskilled,16870,29,furniture,rich,4-7 years,free,1
+25,skilled,15370,66,repairs,quite rich,>7 years,own,1
+31,skilled,13213,66,business,quite rich,1-4 years,own,0
+40,highly skilled,8061,33,education,rich,1-4 years,rent,0
+74,management,3219,63,repairs,quite rich,1-4 years,free,0
+57,highly skilled,12200,48,education,moderate,4-7 years,free,1
+38,highly skilled,4241,46,car,little,>7 years,rent,1
+33,highly skilled,10266,44,car,rich,unemployed,own,0
+62,highly skilled,4498,54,car,quite rich,<1 year,rent,1
+35,highly skilled,19287,22,education,moderate,unemployed,rent,0
+64,skilled,16577,70,repairs,rich,4-7 years,rent,1
+70,highly skilled,794,10,car,quite rich,1-4 years,rent,1
+41,highly skilled,10677,7,repairs,rich,<1 year,own,0
+43,management,10382,27,education,quite rich,4-7 years,rent,0
+42,unskilled,1636,62,repairs,rich,4-7 years,own,0
+62,skilled,2564,71,education,moderate,4-7 years,rent,0
+58,skilled,7509,21,education,moderate,<1 year,free,1
+46,skilled,13487,56,business,little,<1 year,own,0
+32,highly skilled,5043,44,education,rich,>7 years,free,0
+62,highly skilled,1507,45,education,little,>7 years,rent,0
+18,highly skilled,5945,43,furniture,rich,unemployed,rent,1
+42,management,11206,65,car,quite rich,<1 year,rent,0
+24,unskilled,15249,64,business,quite rich,<1 year,own,0
+26,highly skilled,12218,15,business,little,<1 year,free,0
+41,unskilled,9939,69,business,rich,>7 years,own,1
+18,management,13781,68,furniture,little,4-7 years,own,1
+61,skilled,1935,54,education,moderate,1-4 years,rent,0
+25,highly skilled,1071,69,car,little,>7 years,free,0
+41,unskilled,2882,37,repairs,little,<1 year,rent,0
+28,unskilled,5584,12,education,quite rich,>7 years,own,0
+68,highly skilled,17161,26,furniture,little,unemployed,rent,0
+34,skilled,14007,25,education,rich,<1 year,free,1
+25,skilled,7559,31,education,quite rich,unemployed,rent,0
+52,skilled,18771,20,furniture,little,<1 year,free,1
+52,management,13271,19,business,moderate,>7 years,free,0
+50,unskilled,18149,32,business,little,4-7 years,rent,1
+22,unskilled,7991,45,car,little,1-4 years,own,1
+59,unskilled,15027,63,car,little,unemployed,rent,0
+56,management,17924,33,business,quite rich,>7 years,own,0
+58,unskilled,15359,31,repairs,rich,4-7 years,own,0
+45,management,8573,68,education,moderate,>7 years,rent,0
+24,skilled,9577,71,repairs,little,unemployed,own,0
+26,highly skilled,19636,30,education,rich,1-4 years,own,0
+25,unskilled,11883,8,business,rich,>7 years,rent,1
+29,unskilled,16878,49,car,quite rich,<1 year,rent,0
+51,skilled,2853,47,car,moderate,4-7 years,rent,1
+50,highly skilled,5299,11,repairs,quite rich,>7 years,own,0
+65,management,17570,44,car,rich,4-7 years,free,1
+72,highly skilled,12439,57,business,rich,<1 year,own,0
+40,skilled,2928,28,repairs,rich,1-4 years,free,1
+41,skilled,11796,55,education,quite rich,1-4 years,rent,0
+54,highly skilled,8313,48,car,moderate,<1 year,free,0
+52,management,14914,24,furniture,little,4-7 years,rent,0
+61,management,12301,56,car,quite rich,>7 years,rent,0
+57,unskilled,12245,16,education,rich,<1 year,free,0
+39,management,13525,17,repairs,quite rich,unemployed,rent,0
+44,highly skilled,3856,13,education,rich,4-7 years,free,0
+52,skilled,14788,29,furniture,little,1-4 years,rent,1
+18,unskilled,7040,46,business,little,<1 year,own,0
+52,unskilled,16922,41,car,moderate,1-4 years,own,0
+54,skilled,3842,60,repairs,rich,4-7 years,rent,1
+64,management,9578,14,business,moderate,1-4 years,rent,0
+31,skilled,3344,52,education,moderate,<1 year,free,0
+20,management,10896,20,repairs,little,4-7 years,own,0
+18,skilled,17982,53,business,quite rich,unemployed,free,1
+22,highly skilled,18707,47,repairs,quite rich,<1 year,rent,1
+43,management,14498,65,furniture,moderate,>7 years,rent,1
+72,highly skilled,13761,17,furniture,little,<1 year,free,0
+31,unskilled,3593,7,car,rich,4-7 years,rent,1
+56,skilled,12222,12,car,quite rich,<1 year,own,0
+44,unskilled,19780,8,furniture,moderate,unemployed,free,0
+26,unskilled,12145,8,repairs,quite rich,unemployed,own,0
+32,unskilled,15583,32,furniture,quite rich,>7 years,own,0
+32,unskilled,1488,45,car,rich,1-4 years,own,0
+43,skilled,6946,38,furniture,little,4-7 years,free,0
+59,unskilled,16835,6,furniture,rich,4-7 years,rent,0
+30,skilled,16633,13,repairs,little,1-4 years,own,0
+68,skilled,2182,37,business,quite rich,unemployed,own,1
+49,highly skilled,6126,53,car,moderate,unemployed,own,0
+56,management,7924,9,repairs,rich,<1 year,rent,1
+66,management,13357,24,furniture,little,>7 years,rent,0
+69,skilled,12655,37,furniture,quite rich,>7 years,free,1
+49,highly skilled,17817,14,business,little,>7 years,rent,0
+21,skilled,11925,17,car,little,<1 year,free,0
+47,skilled,2480,16,car,little,>7 years,free,0
+54,skilled,16022,51,education,quite rich,1-4 years,free,0
+40,highly skilled,19940,21,car,moderate,<1 year,free,1
+56,management,9484,6,business,moderate,1-4 years,free,0
+62,highly skilled,17675,68,education,moderate,<1 year,own,0
+32,unskilled,16383,26,education,little,>7 years,rent,1
+60,highly skilled,5890,35,furniture,quite rich,1-4 years,own,0
+46,highly skilled,19139,18,furniture,little,1-4 years,free,0
+53,highly skilled,2107,39,car,moderate,1-4 years,rent,0
+30,highly skilled,7073,9,education,moderate,<1 year,own,0
+49,management,17868,33,furniture,quite rich,4-7 years,own,0
+24,unskilled,6276,64,business,little,>7 years,free,0
+68,management,4176,32,furniture,rich,1-4 years,own,1
+39,management,3880,30,furniture,rich,4-7 years,own,0
+45,highly skilled,9211,8,education,moderate,>7 years,own,0
+19,skilled,9282,30,education,quite rich,>7 years,own,0
+59,skilled,17934,25,repairs,little,1-4 years,own,1
+62,management,14497,39,business,little,1-4 years,free,1
+74,management,6842,31,education,moderate,<1 year,free,0
+70,highly skilled,17843,10,car,moderate,4-7 years,own,1
+23,management,6559,66,business,little,4-7 years,free,0
+45,highly skilled,9384,14,business,little,1-4 years,free,0
+45,skilled,6155,55,education,moderate,>7 years,rent,0
+61,skilled,12591,11,business,little,1-4 years,own,0
+61,unskilled,19830,65,education,rich,>7 years,free,0
+37,skilled,15751,49,furniture,moderate,>7 years,free,1
+47,management,1026,16,repairs,little,1-4 years,own,0
+28,skilled,3724,71,furniture,moderate,unemployed,rent,1
+72,highly skilled,15569,52,education,quite rich,4-7 years,own,0
+45,skilled,12036,8,education,moderate,>7 years,rent,0
+42,unskilled,14047,35,furniture,moderate,>7 years,own,0
+56,skilled,18759,26,car,quite rich,unemployed,own,0
+50,highly skilled,2263,33,car,rich,<1 year,own,0
+18,highly skilled,9212,67,car,little,unemployed,own,0
+74,management,6297,38,education,quite rich,unemployed,rent,0
+44,skilled,9708,40,business,moderate,>7 years,rent,0
+74,highly skilled,5609,57,education,little,4-7 years,free,1
+69,unskilled,17000,39,business,quite rich,unemployed,own,0
+30,management,2933,46,furniture,little,<1 year,rent,0
+58,unskilled,17467,56,repairs,little,1-4 years,rent,0
+20,skilled,4667,52,business,quite rich,unemployed,rent,1
+56,skilled,18273,63,car,little,unemployed,own,1
+23,skilled,8857,62,education,rich,<1 year,free,0
+25,management,6654,28,furniture,quite rich,4-7 years,rent,0
+44,highly skilled,9420,53,car,rich,unemployed,own,0
+26,management,18927,27,furniture,moderate,unemployed,rent,1
+54,unskilled,17662,22,repairs,little,4-7 years,rent,0
+50,management,713,16,education,moderate,<1 year,free,0
+68,unskilled,4262,20,education,moderate,unemployed,rent,0
+59,management,13899,40,repairs,little,4-7 years,rent,0
+61,highly skilled,10268,38,education,quite rich,unemployed,own,1
+41,unskilled,11140,21,business,little,1-4 years,own,0
+32,skilled,7231,39,furniture,moderate,>7 years,free,0
+71,skilled,6291,71,car,moderate,1-4 years,own,0
+49,management,16322,45,repairs,quite rich,unemployed,own,1
+49,skilled,9283,33,business,little,<1 year,free,1
+41,unskilled,14121,52,car,moderate,>7 years,rent,0
+58,skilled,16519,44,car,rich,1-4 years,free,0
+69,highly skilled,3220,25,repairs,moderate,4-7 years,own,1
+66,highly skilled,9405,6,business,moderate,<1 year,free,0
+66,management,9627,68,car,quite rich,1-4 years,rent,0
+69,unskilled,16885,9,car,rich,4-7 years,free,0
+29,highly skilled,6868,63,business,moderate,unemployed,own,1
+56,highly skilled,14556,30,education,moderate,4-7 years,own,0
+19,unskilled,12736,52,car,rich,1-4 years,free,1
+20,skilled,18833,43,furniture,little,1-4 years,rent,0
+66,skilled,14951,20,business,little,unemployed,free,0
+54,management,17801,68,car,moderate,4-7 years,rent,0
+66,skilled,10933,26,repairs,moderate,4-7 years,rent,0
+73,unskilled,16025,62,furniture,little,unemployed,free,0
+34,highly skilled,589,58,car,quite rich,4-7 years,rent,0
+66,skilled,18593,51,furniture,rich,unemployed,own,0
+19,management,10861,19,furniture,rich,<1 year,free,1
+19,skilled,16869,22,education,quite rich,1-4 years,rent,1
+45,unskilled,3541,44,furniture,quite rich,<1 year,own,0
+71,management,605,14,education,quite rich,>7 years,free,0
+40,skilled,9578,11,business,quite rich,>7 years,own,0
+54,management,18779,28,education,quite rich,>7 years,own,0
+49,unskilled,6590,64,repairs,quite rich,unemployed,own,1
+50,highly skilled,6582,51,car,rich,4-7 years,rent,0
+18,unskilled,17518,43,business,quite rich,<1 year,free,0
+36,unskilled,2425,19,business,little,<1 year,free,1
+19,unskilled,18940,67,repairs,quite rich,<1 year,rent,0
+70,unskilled,7417,40,education,quite rich,<1 year,free,0
+61,highly skilled,1052,24,car,rich,>7 years,own,0
+43,highly skilled,4411,35,education,rich,<1 year,free,0
+49,management,3889,30,furniture,quite rich,4-7 years,rent,0
+23,skilled,14129,45,education,rich,>7 years,own,1
+49,highly skilled,2930,19,business,moderate,<1 year,rent,1
+72,highly skilled,958,31,car,rich,unemployed,own,0
+21,skilled,13895,27,education,rich,1-4 years,own,1
+72,highly skilled,707,53,car,rich,1-4 years,free,0
+28,unskilled,1399,56,car,rich,1-4 years,own,1
+73,unskilled,12153,8,furniture,little,>7 years,rent,0
+34,skilled,16905,47,furniture,little,<1 year,free,1
+55,management,9101,24,business,little,>7 years,rent,1
+41,management,1394,33,repairs,quite rich,4-7 years,own,0
+22,skilled,1014,50,car,quite rich,unemployed,rent,1
+69,skilled,4609,68,repairs,moderate,unemployed,rent,1
+51,unskilled,13758,24,business,little,1-4 years,own,1
+23,management,15813,52,car,quite rich,1-4 years,free,0
+39,highly skilled,15849,19,car,rich,1-4 years,rent,1
+28,unskilled,7679,43,repairs,rich,<1 year,own,1
+65,skilled,10826,58,education,little,4-7 years,free,0
+33,management,12287,66,furniture,moderate,4-7 years,free,1
+50,highly skilled,2060,41,education,moderate,4-7 years,free,0
+26,highly skilled,14112,45,repairs,rich,4-7 years,rent,0
+23,unskilled,18150,35,furniture,moderate,1-4 years,rent,0
+33,management,5280,14,education,little,unemployed,rent,0
+46,management,18811,69,furniture,rich,1-4 years,free,0
+20,skilled,12394,38,car,quite rich,4-7 years,rent,0
+37,management,2856,57,education,quite rich,1-4 years,own,1
+53,management,5290,19,furniture,moderate,4-7 years,rent,0
+36,unskilled,17190,58,furniture,rich,>7 years,rent,0
+43,management,10681,64,furniture,rich,unemployed,free,0
+20,highly skilled,7557,46,education,quite rich,>7 years,rent,0
+36,unskilled,16582,13,business,rich,<1 year,own,1
+37,unskilled,1161,7,education,rich,1-4 years,free,0
+49,skilled,5144,46,repairs,rich,<1 year,own,1
+24,management,16211,60,education,moderate,1-4 years,free,0
+69,skilled,3420,21,furniture,rich,>7 years,free,0
+58,highly skilled,16502,67,car,little,4-7 years,rent,0
+50,unskilled,14525,53,education,moderate,4-7 years,own,0
+57,unskilled,9446,35,education,rich,1-4 years,free,0
+56,unskilled,13232,17,furniture,rich,4-7 years,rent,0
+35,highly skilled,6736,40,car,little,>7 years,free,0
+57,highly skilled,16809,16,car,moderate,4-7 years,free,1
+18,skilled,14018,69,repairs,quite rich,>7 years,free,0
+28,skilled,852,55,education,quite rich,<1 year,free,0
+45,skilled,7505,26,car,moderate,>7 years,free,0
+74,management,14536,53,car,rich,unemployed,free,0
+42,unskilled,17042,25,business,rich,unemployed,rent,1
+67,unskilled,1456,49,business,quite rich,unemployed,free,0
+40,skilled,2571,38,car,quite rich,1-4 years,own,0
+48,unskilled,9095,66,repairs,quite rich,1-4 years,rent,1
+47,skilled,15640,14,car,little,1-4 years,own,0
+59,management,13303,40,furniture,quite rich,>7 years,free,0
+52,management,3953,70,education,little,1-4 years,own,0
+24,highly skilled,7175,13,repairs,moderate,<1 year,free,0
+33,management,1455,50,furniture,rich,unemployed,free,1
+43,skilled,6795,52,repairs,quite rich,>7 years,rent,1
+65,management,16421,45,furniture,rich,unemployed,rent,1
+74,highly skilled,18596,59,education,rich,1-4 years,free,0
+69,unskilled,15782,51,education,quite rich,>7 years,rent,0
+66,skilled,5203,52,business,quite rich,4-7 years,own,1
+19,unskilled,7063,20,furniture,moderate,<1 year,rent,0
+18,highly skilled,12503,24,business,little,1-4 years,rent,0
+65,highly skilled,11317,31,furniture,little,1-4 years,own,0
+29,highly skilled,11671,57,business,rich,<1 year,rent,0
+22,unskilled,13082,27,education,quite rich,<1 year,free,0
+54,unskilled,12701,26,repairs,moderate,4-7 years,own,1
+49,unskilled,18278,56,business,moderate,1-4 years,free,1
+72,unskilled,12973,43,furniture,moderate,1-4 years,own,0
+26,highly skilled,9961,25,furniture,moderate,unemployed,free,0
+58,highly skilled,16096,34,education,moderate,>7 years,free,0
+52,skilled,1029,56,furniture,little,>7 years,rent,1
+36,skilled,19842,9,car,little,unemployed,free,0
+65,unskilled,13265,60,repairs,little,>7 years,rent,1
+33,management,14410,33,business,quite rich,<1 year,own,0
+20,management,12061,9,repairs,rich,>7 years,free,0
+37,highly skilled,9631,27,education,moderate,>7 years,free,0
+41,highly skilled,1025,50,business,quite rich,unemployed,own,1
+71,highly skilled,16885,71,business,moderate,4-7 years,own,0
+73,skilled,874,39,car,little,>7 years,free,0
+50,skilled,12697,60,education,quite rich,>7 years,own,0
+41,highly skilled,5148,6,furniture,little,4-7 years,rent,1
+69,highly skilled,2865,43,car,moderate,unemployed,own,1
+28,highly skilled,18409,11,car,moderate,4-7 years,own,0
+66,management,2146,30,repairs,rich,unemployed,free,1
+25,skilled,513,22,repairs,moderate,<1 year,rent,0
+53,management,5099,66,repairs,little,unemployed,own,0
+55,management,2778,17,car,moderate,<1 year,rent,0
+57,highly skilled,14796,11,furniture,rich,<1 year,rent,0
+37,highly skilled,3655,32,business,rich,unemployed,rent,1
+52,unskilled,8821,13,repairs,little,1-4 years,free,1
+65,unskilled,4314,70,furniture,quite rich,unemployed,own,0
+42,management,13625,62,education,moderate,>7 years,free,0
+52,skilled,3716,45,repairs,rich,>7 years,own,1
+42,highly skilled,2613,19,business,moderate,1-4 years,own,1
+46,highly skilled,10738,40,education,moderate,<1 year,free,0
+35,management,14260,53,education,quite rich,1-4 years,rent,1
+63,unskilled,13088,61,business,rich,>7 years,rent,0
+35,skilled,3874,54,repairs,moderate,1-4 years,own,0
+19,unskilled,6930,18,car,rich,unemployed,free,1
+71,unskilled,19965,66,business,little,1-4 years,rent,0
+52,unskilled,12470,54,business,little,<1 year,rent,0
+33,unskilled,1129,51,business,moderate,unemployed,own,0
+58,highly skilled,17153,67,education,rich,4-7 years,own,1
+53,highly skilled,11331,13,furniture,moderate,>7 years,free,1
+50,unskilled,6224,48,car,rich,>7 years,own,0
+21,skilled,11583,25,repairs,rich,1-4 years,rent,0
+50,management,13649,44,repairs,quite rich,unemployed,rent,0
+31,skilled,9972,54,furniture,quite rich,4-7 years,rent,0
+38,skilled,6776,69,business,quite rich,unemployed,rent,0
+65,skilled,16135,67,car,moderate,>7 years,free,1
+37,unskilled,6395,59,repairs,quite rich,unemployed,free,0
+73,highly skilled,14494,14,repairs,quite rich,4-7 years,own,0
+25,skilled,11052,42,business,little,1-4 years,own,0
+24,unskilled,17459,54,furniture,rich,<1 year,own,0
+20,skilled,6599,46,car,rich,unemployed,free,1
+34,skilled,9999,22,furniture,quite rich,<1 year,rent,0
+50,unskilled,3678,26,furniture,rich,>7 years,own,0
+65,highly skilled,19618,56,car,little,1-4 years,rent,0
+29,highly skilled,6616,64,car,little,1-4 years,own,0
+68,management,16063,44,repairs,quite rich,unemployed,own,0
+39,unskilled,4068,60,repairs,little,1-4 years,own,0
+72,management,10347,46,car,rich,unemployed,own,0
+39,management,14635,44,education,moderate,unemployed,own,0
+63,management,19087,18,repairs,rich,<1 year,rent,0
+47,highly skilled,18274,69,education,moderate,1-4 years,own,0
+55,unskilled,2242,16,car,quite rich,unemployed,rent,1
+55,management,18809,24,repairs,moderate,<1 year,free,0
+62,unskilled,1119,16,furniture,little,4-7 years,own,0
+68,unskilled,18158,51,car,rich,<1 year,rent,0
+71,highly skilled,17840,50,business,moderate,<1 year,free,0
+25,management,2439,6,education,rich,unemployed,free,1
+44,management,16501,45,car,quite rich,>7 years,free,0
+44,unskilled,1468,24,car,quite rich,>7 years,rent,1
+51,skilled,15346,66,repairs,little,>7 years,own,0
+38,highly skilled,781,17,repairs,quite rich,<1 year,own,0
+47,highly skilled,15860,66,repairs,moderate,unemployed,rent,1
+50,highly skilled,6762,38,business,quite rich,1-4 years,own,0
+45,highly skilled,1558,50,repairs,little,<1 year,rent,0
+64,management,11224,13,car,rich,<1 year,own,0
+50,management,5678,30,repairs,rich,unemployed,free,1
+22,skilled,7480,51,furniture,quite rich,4-7 years,own,0
+65,highly skilled,9700,35,repairs,moderate,<1 year,rent,1
+36,highly skilled,1729,52,business,little,4-7 years,rent,0
+21,unskilled,8967,54,furniture,moderate,4-7 years,free,1
+52,management,19624,52,car,little,>7 years,rent,0
+66,highly skilled,2789,23,car,quite rich,unemployed,own,1
+34,skilled,1739,71,education,little,4-7 years,own,0
+61,skilled,5870,38,furniture,little,unemployed,free,1
+45,management,16670,41,education,quite rich,>7 years,rent,0
+47,skilled,625,24,furniture,moderate,unemployed,free,0
+46,skilled,13004,33,furniture,quite rich,<1 year,own,0
+63,management,15898,45,business,little,4-7 years,free,0
+70,highly skilled,7138,20,education,quite rich,unemployed,rent,0
+23,highly skilled,7070,46,business,little,1-4 years,free,1
+52,skilled,3749,44,furniture,quite rich,unemployed,rent,1
+58,skilled,9610,7,car,rich,4-7 years,rent,0
+54,highly skilled,8095,68,furniture,rich,>7 years,own,1
+41,management,14105,34,business,quite rich,>7 years,own,0
+46,skilled,12615,71,education,moderate,4-7 years,own,0
+66,unskilled,6794,56,education,little,<1 year,rent,1
+63,management,6257,15,business,rich,<1 year,free,0
+70,skilled,13095,19,education,moderate,>7 years,rent,1
+48,skilled,2469,56,repairs,little,>7 years,own,0
+52,unskilled,11485,44,car,rich,4-7 years,own,0
+50,unskilled,17775,33,car,rich,<1 year,free,0
+69,highly skilled,4970,8,car,quite rich,>7 years,own,0
+38,management,10725,32,education,little,<1 year,own,0
+49,management,10056,7,education,moderate,>7 years,own,1
+40,highly skilled,9706,43,furniture,moderate,unemployed,free,1
+50,management,10491,8,furniture,moderate,1-4 years,rent,1
+20,management,8019,21,car,little,unemployed,own,0
+35,management,14169,45,repairs,moderate,>7 years,free,0
+42,management,5112,7,furniture,moderate,1-4 years,own,0
+59,management,12873,46,furniture,moderate,1-4 years,free,0
+48,unskilled,18082,17,education,quite rich,>7 years,own,0
+71,management,16052,40,repairs,quite rich,>7 years,free,1
+20,unskilled,15146,70,car,little,<1 year,own,0
+57,management,5738,60,furniture,little,>7 years,rent,0
+63,highly skilled,16077,50,repairs,moderate,4-7 years,own,0
+41,skilled,16004,67,repairs,quite rich,>7 years,free,0
+67,unskilled,4219,54,car,rich,4-7 years,own,0
+49,management,802,30,repairs,rich,>7 years,rent,1
+64,highly skilled,12644,28,repairs,moderate,<1 year,own,0
+39,skilled,17870,29,repairs,moderate,4-7 years,free,1
+40,unskilled,10555,43,furniture,quite rich,unemployed,free,0
+19,skilled,4940,33,car,quite rich,4-7 years,rent,0
+44,highly skilled,3572,26,repairs,quite rich,<1 year,free,0
+59,unskilled,14098,59,repairs,little,4-7 years,own,1
+19,skilled,14787,23,furniture,little,>7 years,own,1
+43,management,14465,41,car,moderate,>7 years,own,0
+34,unskilled,10019,50,education,little,<1 year,free,0
+57,skilled,13880,58,furniture,quite rich,1-4 years,own,0
+50,highly skilled,12365,35,car,quite rich,>7 years,own,0
+26,highly skilled,8625,65,repairs,little,unemployed,own,1
+60,unskilled,3791,37,car,rich,<1 year,rent,0
+71,skilled,4533,33,car,moderate,4-7 years,free,0
+65,unskilled,5605,49,car,rich,4-7 years,free,0
+56,unskilled,17587,46,education,moderate,unemployed,free,0
+46,skilled,8633,68,car,rich,>7 years,rent,0
+59,skilled,17458,28,education,little,<1 year,free,0
+72,management,6204,53,repairs,moderate,unemployed,rent,1
+43,skilled,8348,37,education,moderate,>7 years,rent,1
+52,highly skilled,13475,62,repairs,moderate,<1 year,free,0
+67,unskilled,7424,38,repairs,quite rich,4-7 years,own,1
+42,unskilled,988,29,education,quite rich,<1 year,own,0
+41,highly skilled,7614,44,furniture,rich,1-4 years,free,0
+30,skilled,16240,39,business,little,<1 year,free,0
+24,highly skilled,3673,61,car,quite rich,1-4 years,rent,0
+74,highly skilled,2167,33,business,moderate,<1 year,free,0
+53,management,4614,42,car,quite rich,1-4 years,rent,0
+62,highly skilled,4053,12,car,little,4-7 years,free,0
+37,unskilled,8261,42,repairs,quite rich,>7 years,own,1
+18,highly skilled,1500,61,car,moderate,1-4 years,own,0
+25,unskilled,16138,70,car,rich,1-4 years,free,0
+63,unskilled,18272,70,education,moderate,4-7 years,rent,0
+33,unskilled,5950,52,business,little,1-4 years,own,0
+31,skilled,4212,25,education,rich,unemployed,rent,0
+29,management,1867,24,car,quite rich,4-7 years,free,1
+68,unskilled,8689,34,repairs,quite rich,unemployed,free,0
+40,unskilled,9513,65,education,quite rich,4-7 years,own,0
+32,skilled,17338,23,education,rich,1-4 years,free,0
+45,unskilled,19656,40,furniture,moderate,unemployed,own,0
+51,highly skilled,4226,48,car,rich,1-4 years,rent,0
+19,highly skilled,5306,16,repairs,rich,4-7 years,own,0
+49,management,2690,54,education,little,1-4 years,own,0
+40,unskilled,9608,43,education,rich,unemployed,rent,0
+39,skilled,12678,69,repairs,quite rich,unemployed,own,0
+68,highly skilled,3375,13,car,moderate,1-4 years,own,1
+42,skilled,6092,39,furniture,moderate,<1 year,free,0
+39,skilled,18324,53,education,moderate,4-7 years,rent,1
+39,highly skilled,13092,61,furniture,quite rich,4-7 years,own,1
+66,skilled,9427,70,business,quite rich,1-4 years,rent,0
+69,highly skilled,14937,36,car,quite rich,<1 year,rent,0
+59,skilled,12030,9,business,quite rich,unemployed,own,0
+23,highly skilled,7510,55,business,quite rich,>7 years,free,0
+32,unskilled,11707,35,business,rich,>7 years,rent,0
+71,management,3489,64,car,quite rich,1-4 years,own,1
+60,highly skilled,12540,50,car,quite rich,<1 year,rent,1
+54,highly skilled,9718,9,repairs,quite rich,<1 year,free,0
+50,management,6971,31,furniture,quite rich,4-7 years,free,0
+25,highly skilled,3363,32,furniture,moderate,unemployed,free,0
+70,highly skilled,11193,51,repairs,quite rich,<1 year,own,1
+61,skilled,1677,69,repairs,rich,>7 years,own,0
+61,management,5260,56,business,rich,unemployed,free,0
+22,unskilled,511,55,repairs,rich,unemployed,own,1
+56,highly skilled,16853,11,education,little,1-4 years,free,0
+21,management,12056,64,furniture,moderate,<1 year,own,1
+23,skilled,12063,20,repairs,quite rich,1-4 years,free,0
+62,unskilled,14551,35,education,little,<1 year,rent,0
+49,management,11522,47,education,quite rich,4-7 years,free,1
+69,unskilled,8734,42,education,little,1-4 years,free,0
+47,unskilled,16673,47,education,little,1-4 years,own,0
+64,unskilled,13678,40,business,rich,>7 years,own,0
+52,highly skilled,7070,11,education,rich,1-4 years,own,0
+72,highly skilled,906,23,business,little,<1 year,own,0
+57,skilled,9706,34,business,rich,>7 years,own,0
+69,skilled,4931,64,education,little,1-4 years,own,0
+33,management,7042,52,furniture,moderate,1-4 years,rent,0
+30,skilled,9406,22,education,rich,4-7 years,free,1
+67,unskilled,4646,27,education,rich,1-4 years,free,1
+59,unskilled,12546,42,education,rich,unemployed,free,0
+47,highly skilled,13111,54,furniture,moderate,>7 years,rent,0
+36,unskilled,13576,18,car,little,unemployed,free,0
+34,management,17024,39,car,quite rich,>7 years,rent,0
+73,unskilled,5382,58,business,rich,4-7 years,rent,1
+36,unskilled,14613,56,business,little,1-4 years,rent,1
+45,management,14145,8,furniture,moderate,1-4 years,free,0
+72,skilled,6512,47,repairs,quite rich,1-4 years,rent,0
+43,skilled,17847,37,car,rich,>7 years,free,0
+54,management,7651,56,business,moderate,1-4 years,free,0
+43,highly skilled,4110,51,car,moderate,unemployed,own,0
+70,unskilled,10384,26,furniture,quite rich,1-4 years,own,1
+40,management,7394,49,furniture,little,4-7 years,rent,1
+26,unskilled,13967,16,repairs,rich,unemployed,rent,0
+29,highly skilled,16989,6,repairs,rich,1-4 years,free,0
+70,unskilled,10373,68,furniture,little,1-4 years,rent,1
+18,management,12789,29,business,little,<1 year,rent,0
+18,unskilled,12708,18,car,little,>7 years,free,0
+64,skilled,11328,16,education,quite rich,unemployed,rent,0
+51,highly skilled,2637,56,repairs,quite rich,<1 year,rent,1
+49,highly skilled,1786,22,education,rich,4-7 years,free,0
+71,highly skilled,16210,29,business,quite rich,>7 years,free,0
+65,management,11871,24,repairs,moderate,unemployed,own,1
+42,highly skilled,16445,42,education,rich,1-4 years,free,1
+57,skilled,7552,13,business,quite rich,unemployed,own,1
+62,management,4154,33,car,little,1-4 years,rent,0
+70,skilled,19243,10,business,moderate,>7 years,free,0
+18,unskilled,16100,22,repairs,little,1-4 years,free,1
+33,unskilled,9136,41,furniture,rich,4-7 years,free,1
+56,unskilled,6941,24,car,little,1-4 years,rent,0
+22,unskilled,10167,69,education,quite rich,4-7 years,own,0
+39,skilled,12649,16,repairs,quite rich,>7 years,rent,1
+46,management,2298,59,furniture,rich,>7 years,rent,1
+72,management,10100,50,business,little,unemployed,free,0
+20,highly skilled,5995,52,furniture,rich,4-7 years,own,0
+29,skilled,10400,17,repairs,little,4-7 years,rent,0
+43,unskilled,14173,26,repairs,moderate,<1 year,free,0
+33,skilled,11630,16,furniture,quite rich,<1 year,rent,0
+68,highly skilled,15722,10,business,rich,<1 year,rent,0
+54,highly skilled,1800,61,furniture,moderate,1-4 years,free,0
+39,skilled,9935,25,repairs,moderate,<1 year,free,0
+74,skilled,19981,46,repairs,rich,4-7 years,own,0
+46,skilled,5116,51,education,rich,1-4 years,rent,1
+31,management,16893,17,education,moderate,>7 years,free,0
+45,unskilled,11117,22,car,little,unemployed,free,0
+22,skilled,6252,24,repairs,moderate,<1 year,own,1
+64,skilled,10352,31,education,rich,>7 years,own,0
+66,skilled,6795,53,furniture,moderate,4-7 years,free,1
+47,highly skilled,17956,57,business,little,unemployed,own,1
+63,highly skilled,3725,60,furniture,quite rich,>7 years,free,0
+69,management,1816,38,business,quite rich,unemployed,rent,1
+22,unskilled,12837,67,education,moderate,<1 year,own,0
+29,management,7307,28,car,little,4-7 years,rent,0
+33,unskilled,4183,20,furniture,quite rich,unemployed,rent,0
+43,highly skilled,7727,32,furniture,moderate,>7 years,rent,0
+43,highly skilled,3773,69,furniture,moderate,<1 year,free,1
+65,highly skilled,645,56,business,little,<1 year,rent,0
+38,management,5510,58,education,rich,>7 years,rent,0
+56,skilled,16535,56,furniture,moderate,>7 years,rent,0
+53,skilled,3540,52,furniture,rich,unemployed,free,0
+50,highly skilled,10154,9,car,rich,1-4 years,rent,0
+47,skilled,17366,12,car,quite rich,<1 year,rent,0
+54,skilled,18133,40,education,rich,unemployed,own,1
+40,management,17514,53,education,little,>7 years,free,0
+27,unskilled,15496,50,repairs,quite rich,unemployed,rent,1
+71,highly skilled,16836,24,car,quite rich,>7 years,own,0
+22,highly skilled,9353,68,repairs,quite rich,4-7 years,free,1
+53,management,12195,43,business,moderate,>7 years,free,1
+51,management,3352,64,repairs,moderate,>7 years,free,0
+69,skilled,16514,18,furniture,rich,>7 years,free,0
+48,highly skilled,1487,52,repairs,quite rich,1-4 years,free,1
+27,unskilled,8122,66,education,quite rich,>7 years,free,0
+36,management,9660,36,business,little,<1 year,rent,1
+49,unskilled,17984,27,furniture,rich,<1 year,rent,0
+18,unskilled,7152,48,repairs,little,unemployed,rent,0
+73,highly skilled,7921,59,business,rich,1-4 years,rent,0
+22,highly skilled,1269,15,business,rich,unemployed,own,1
+62,management,18227,47,furniture,moderate,<1 year,rent,0
+21,highly skilled,14614,69,repairs,moderate,<1 year,free,1
+33,highly skilled,4858,26,business,little,4-7 years,rent,1
+41,highly skilled,12043,71,business,rich,>7 years,rent,0
+33,unskilled,19233,46,car,quite rich,<1 year,free,0
+72,management,6199,29,business,moderate,unemployed,rent,1
+19,skilled,18125,40,car,quite rich,unemployed,rent,0
+66,unskilled,1625,61,repairs,little,>7 years,rent,1
+45,highly skilled,11293,35,repairs,moderate,>7 years,own,0
+49,unskilled,7264,62,repairs,moderate,4-7 years,rent,0
+44,highly skilled,12823,52,education,rich,1-4 years,free,1
+37,highly skilled,13531,40,repairs,little,unemployed,free,0
+41,unskilled,14552,24,business,rich,>7 years,rent,0
+29,management,13140,13,furniture,moderate,unemployed,rent,0
+67,highly skilled,8343,31,car,little,>7 years,rent,0
+52,management,14710,35,education,moderate,<1 year,free,0
+50,skilled,16956,12,repairs,little,unemployed,free,1
+50,highly skilled,10606,70,repairs,moderate,<1 year,own,0
+68,management,5689,41,furniture,quite rich,unemployed,own,0
+60,management,2972,30,furniture,quite rich,1-4 years,own,0
+54,skilled,17591,42,education,rich,4-7 years,free,0
+29,management,18688,6,car,quite rich,<1 year,own,0
+20,management,7204,20,repairs,moderate,>7 years,rent,1
+18,skilled,4213,42,education,moderate,1-4 years,rent,1
+50,highly skilled,5551,18,business,quite rich,unemployed,free,0
+57,management,11256,13,business,rich,<1 year,own,0
+27,management,2975,10,education,quite rich,unemployed,rent,0
+60,management,4110,65,repairs,little,unemployed,free,0
+61,unskilled,4755,6,education,little,unemployed,own,0
+46,skilled,14984,41,repairs,little,4-7 years,rent,0
+30,unskilled,2235,40,furniture,quite rich,4-7 years,own,0
+29,skilled,8758,71,education,quite rich,>7 years,free,0
+48,highly skilled,8479,68,repairs,quite rich,<1 year,own,0
+63,highly skilled,2928,28,education,little,1-4 years,free,1
+19,management,12845,14,education,rich,1-4 years,own,0
+68,skilled,7926,39,repairs,moderate,1-4 years,rent,0
+67,highly skilled,9033,51,repairs,quite rich,unemployed,free,0
+52,skilled,5749,9,car,rich,4-7 years,free,0
+40,highly skilled,19701,35,education,moderate,<1 year,free,1
+34,unskilled,10186,8,business,moderate,unemployed,own,0
+43,highly skilled,14609,19,education,moderate,4-7 years,own,0
+25,unskilled,1161,65,education,rich,4-7 years,rent,0
+46,highly skilled,12575,50,repairs,rich,<1 year,free,1
+43,management,15288,39,education,little,<1 year,free,0
+27,unskilled,10560,50,education,rich,<1 year,own,0
+43,highly skilled,16336,66,business,rich,unemployed,own,0
+51,management,11026,21,repairs,rich,>7 years,rent,0
+68,unskilled,3874,71,education,moderate,<1 year,rent,0
+58,management,707,45,furniture,quite rich,>7 years,own,0
+24,skilled,3165,22,car,little,unemployed,free,0
+21,skilled,19377,39,business,quite rich,>7 years,rent,1
+70,unskilled,1132,21,education,quite rich,1-4 years,own,0
+67,highly skilled,3583,65,furniture,rich,>7 years,own,0
+62,unskilled,14211,71,education,little,<1 year,free,0
+28,management,10623,71,education,quite rich,unemployed,own,1
+46,highly skilled,7623,18,repairs,quite rich,<1 year,own,0
+73,skilled,11254,61,repairs,little,1-4 years,rent,1
+53,highly skilled,2179,36,repairs,rich,<1 year,own,0
+42,skilled,16401,39,furniture,quite rich,<1 year,own,0
+38,highly skilled,736,44,education,moderate,<1 year,rent,0
+74,highly skilled,7946,13,car,quite rich,4-7 years,free,0
+53,highly skilled,4943,60,business,moderate,1-4 years,free,1
+27,management,15963,32,repairs,rich,<1 year,rent,1
+54,management,9055,58,repairs,quite rich,<1 year,rent,0
+26,unskilled,19252,44,education,little,<1 year,free,0
+41,unskilled,17169,70,education,little,unemployed,free,1
+52,skilled,648,22,furniture,quite rich,4-7 years,free,0
+66,management,13895,35,furniture,rich,unemployed,free,0
+52,skilled,5395,58,repairs,rich,4-7 years,free,0
+65,unskilled,17896,18,education,little,<1 year,rent,0
+53,skilled,11523,26,car,quite rich,1-4 years,own,0
+35,unskilled,11199,24,business,rich,>7 years,free,0
+66,management,10215,58,education,little,>7 years,free,0
+56,highly skilled,19669,24,education,moderate,<1 year,own,0
+49,management,16663,62,furniture,quite rich,unemployed,own,0
+41,skilled,6282,30,business,moderate,1-4 years,own,0
+40,skilled,19292,36,repairs,moderate,4-7 years,own,1
+49,management,17224,60,education,rich,<1 year,own,0
+54,management,3317,28,repairs,rich,1-4 years,own,0
+29,unskilled,15596,37,education,rich,1-4 years,rent,1
+66,skilled,19380,67,repairs,quite rich,4-7 years,own,1
+72,skilled,5799,15,business,moderate,1-4 years,own,0
+30,management,10417,59,furniture,quite rich,unemployed,rent,0
+40,highly skilled,18573,57,business,rich,unemployed,own,1
+42,skilled,3767,25,car,moderate,unemployed,free,1
+52,highly skilled,4906,37,furniture,quite rich,1-4 years,free,1
+58,management,18326,19,business,quite rich,unemployed,own,1
+47,management,10882,55,car,little,4-7 years,rent,0
+34,unskilled,4937,33,education,quite rich,1-4 years,free,0
+66,skilled,5935,58,education,rich,>7 years,rent,0
+37,highly skilled,4607,29,repairs,quite rich,1-4 years,free,0
+65,unskilled,1060,27,furniture,moderate,4-7 years,own,0
+42,skilled,12829,35,education,quite rich,>7 years,rent,0
+39,unskilled,2326,68,furniture,little,1-4 years,rent,0
+30,management,11921,9,education,moderate,unemployed,rent,1
+36,skilled,12765,64,repairs,moderate,<1 year,free,0
+66,unskilled,8129,13,business,little,<1 year,free,0
+53,unskilled,8825,17,repairs,rich,unemployed,free,0
+29,highly skilled,8193,36,car,moderate,<1 year,own,0
+58,unskilled,8764,39,education,rich,<1 year,free,1
+36,skilled,13186,54,car,moderate,unemployed,own,0
+29,skilled,14216,62,car,moderate,unemployed,rent,1
+26,highly skilled,7221,31,furniture,rich,1-4 years,rent,0
+24,skilled,19862,23,education,moderate,1-4 years,own,0
+45,management,7873,43,car,rich,unemployed,free,0
+31,skilled,6407,55,business,little,4-7 years,own,0
+48,skilled,16627,13,car,rich,<1 year,rent,1
+69,unskilled,6156,46,business,little,1-4 years,rent,0
+36,unskilled,9484,11,furniture,moderate,<1 year,own,1
+64,skilled,8786,49,car,rich,>7 years,free,0
+33,highly skilled,6401,69,repairs,moderate,unemployed,free,1
+70,unskilled,5417,34,furniture,rich,4-7 years,own,0
+22,highly skilled,8929,33,business,little,>7 years,own,1
+52,skilled,15216,16,furniture,little,>7 years,free,0
+29,skilled,16295,70,car,rich,>7 years,rent,0
+42,management,11638,24,education,little,unemployed,own,0
+69,unskilled,3030,14,education,moderate,1-4 years,free,1
+38,skilled,18844,32,business,moderate,unemployed,free,0
+53,management,17932,39,business,quite rich,1-4 years,rent,0
+70,unskilled,6272,49,education,little,>7 years,rent,1
+40,skilled,15976,20,business,moderate,>7 years,rent,0
+33,skilled,19413,56,furniture,rich,4-7 years,rent,0
+74,unskilled,16251,18,repairs,little,1-4 years,rent,0
+56,unskilled,3464,54,repairs,moderate,>7 years,own,0
+62,unskilled,7637,61,furniture,little,<1 year,free,1
+70,skilled,17847,56,repairs,rich,4-7 years,own,1
+59,skilled,17420,42,car,moderate,unemployed,own,0
+56,management,14391,22,furniture,quite rich,4-7 years,own,1
+31,highly skilled,7840,63,business,quite rich,<1 year,own,0
+48,unskilled,8467,34,furniture,little,1-4 years,own,0
+22,skilled,12915,38,education,rich,unemployed,rent,0
+52,skilled,12371,65,business,moderate,unemployed,rent,0
+40,unskilled,12416,60,education,rich,1-4 years,free,0
+46,highly skilled,9234,15,business,moderate,4-7 years,own,1
+60,unskilled,1345,52,repairs,little,>7 years,free,1
+28,highly skilled,19920,28,furniture,moderate,4-7 years,rent,0
+35,skilled,2994,26,car,rich,<1 year,rent,0
+64,highly skilled,13177,18,business,rich,>7 years,rent,1
+29,management,19603,38,business,little,4-7 years,own,1
+26,skilled,18768,29,education,rich,1-4 years,own,1
+27,management,12830,16,repairs,moderate,<1 year,rent,0
+61,unskilled,5679,22,education,little,<1 year,free,1
+34,unskilled,7110,52,education,moderate,<1 year,free,0
+55,unskilled,6930,30,repairs,rich,>7 years,rent,0
+24,highly skilled,7654,26,car,little,unemployed,free,0
+63,skilled,14328,17,education,moderate,>7 years,rent,0
+30,unskilled,10645,42,education,rich,4-7 years,free,0
+57,unskilled,6988,47,business,rich,unemployed,rent,0
+59,skilled,4350,22,repairs,quite rich,4-7 years,free,0
+26,unskilled,17573,53,furniture,rich,unemployed,own,1
+67,management,14064,33,car,moderate,>7 years,rent,0
+44,skilled,5578,46,car,little,<1 year,rent,0
+19,skilled,12668,52,repairs,quite rich,1-4 years,free,0
+22,skilled,5948,23,business,rich,<1 year,rent,1
+46,management,18063,18,business,rich,>7 years,rent,0
+54,skilled,9574,18,repairs,rich,unemployed,rent,0
+55,management,6906,36,business,moderate,<1 year,own,0
+36,skilled,9300,7,car,quite rich,>7 years,own,1
+25,highly skilled,14583,21,car,moderate,4-7 years,free,1
+65,unskilled,2138,14,furniture,quite rich,1-4 years,own,0
+62,highly skilled,10840,43,repairs,little,<1 year,free,0
+18,unskilled,1882,59,education,moderate,unemployed,own,1
+39,management,1903,61,education,moderate,4-7 years,free,0
+69,highly skilled,9511,50,furniture,little,>7 years,own,0
+34,skilled,3792,39,furniture,quite rich,1-4 years,own,0
+24,unskilled,9511,14,business,rich,unemployed,free,0
+42,unskilled,919,13,furniture,little,>7 years,rent,0
+62,highly skilled,12911,12,furniture,rich,>7 years,rent,0
+21,management,5017,41,education,rich,<1 year,own,0
+53,highly skilled,15922,23,business,little,<1 year,free,1
+23,management,10200,8,furniture,quite rich,unemployed,rent,0
+48,management,6193,33,furniture,rich,>7 years,free,1
+36,unskilled,1267,49,business,little,<1 year,rent,0
+61,highly skilled,18928,26,repairs,moderate,1-4 years,free,0
+71,highly skilled,15318,33,business,moderate,1-4 years,own,0
+56,management,2049,59,education,moderate,>7 years,free,1
+44,highly skilled,10456,59,repairs,little,<1 year,rent,1
+27,skilled,6640,70,car,moderate,unemployed,own,0
+43,skilled,11337,26,business,rich,unemployed,free,1
+36,highly skilled,4216,18,education,moderate,unemployed,rent,0
+56,highly skilled,4981,62,repairs,moderate,1-4 years,own,1
+20,management,7048,54,business,rich,<1 year,free,1
+62,skilled,19177,59,furniture,moderate,<1 year,rent,1
+30,skilled,5337,15,business,rich,1-4 years,free,0
+67,unskilled,8258,58,car,moderate,unemployed,free,0
+45,management,11400,49,business,rich,unemployed,own,0
+37,unskilled,8493,52,repairs,moderate,>7 years,own,0
+45,skilled,6042,58,repairs,rich,4-7 years,rent,0
+25,management,15328,51,business,little,<1 year,own,0
+58,highly skilled,16552,18,repairs,rich,<1 year,rent,0
+56,management,2885,42,furniture,moderate,<1 year,free,0
+18,highly skilled,14808,29,business,moderate,4-7 years,free,0
+20,highly skilled,1171,7,furniture,quite rich,>7 years,rent,0
+30,management,663,19,furniture,rich,4-7 years,free,1
+45,highly skilled,9156,15,education,little,unemployed,own,0
+74,unskilled,11734,40,business,rich,unemployed,free,0
+66,skilled,5295,30,repairs,rich,<1 year,own,1
+42,highly skilled,11134,8,furniture,little,1-4 years,rent,0
+73,unskilled,5298,22,education,rich,<1 year,rent,0
+50,highly skilled,19239,17,business,little,1-4 years,free,0
+55,skilled,11249,59,business,little,4-7 years,free,0
+70,unskilled,6327,29,car,rich,unemployed,own,1
+23,skilled,5219,34,car,rich,1-4 years,own,0
+61,skilled,1093,48,furniture,moderate,4-7 years,free,0
+62,unskilled,7894,30,car,moderate,unemployed,free,0
+49,unskilled,14556,65,furniture,quite rich,1-4 years,rent,0
+62,unskilled,11136,70,repairs,quite rich,<1 year,rent,1
+64,management,19556,33,furniture,rich,<1 year,rent,0
+38,unskilled,516,21,car,little,<1 year,free,0
+33,unskilled,3691,52,repairs,quite rich,4-7 years,free,0
+71,unskilled,892,63,car,rich,<1 year,free,0
+38,unskilled,6772,32,furniture,quite rich,>7 years,rent,0
+28,highly skilled,17455,58,education,little,unemployed,free,1
+54,management,4131,47,business,rich,4-7 years,own,1
+53,skilled,6672,64,car,little,<1 year,free,1
+52,unskilled,9812,52,furniture,rich,unemployed,free,1
+36,highly skilled,19163,39,repairs,quite rich,1-4 years,free,0
+37,highly skilled,9406,42,car,moderate,<1 year,free,0
+74,highly skilled,17659,11,car,quite rich,unemployed,free,1
+35,skilled,19131,12,business,quite rich,>7 years,own,1
+64,unskilled,16962,30,furniture,moderate,1-4 years,own,1
+58,management,8580,38,education,moderate,>7 years,free,0
+66,management,7599,60,repairs,rich,unemployed,rent,0
+31,highly skilled,15416,63,furniture,rich,>7 years,free,1
+32,skilled,7583,12,repairs,little,unemployed,free,1
+48,skilled,9723,62,car,little,unemployed,free,1
+18,skilled,5440,17,business,quite rich,>7 years,rent,0
+70,management,3956,21,business,moderate,unemployed,rent,0
+71,highly skilled,8288,48,education,little,<1 year,rent,0
+71,unskilled,3211,12,business,quite rich,unemployed,own,1
+20,management,11780,56,car,moderate,4-7 years,rent,0
+33,highly skilled,18552,37,education,rich,unemployed,own,0
+40,highly skilled,17031,13,furniture,quite rich,4-7 years,own,1
+74,unskilled,12589,50,business,rich,unemployed,rent,0
+28,unskilled,10642,64,education,little,unemployed,rent,1
+29,unskilled,17249,9,car,little,>7 years,rent,0
+27,skilled,16087,34,repairs,moderate,<1 year,own,1
+49,unskilled,10366,34,repairs,quite rich,<1 year,free,0
+33,highly skilled,5031,33,car,rich,1-4 years,rent,1
+25,unskilled,13186,49,car,moderate,>7 years,rent,1
+55,highly skilled,5830,9,repairs,little,>7 years,rent,0
+29,management,6010,14,education,little,<1 year,own,0
+41,skilled,9464,10,repairs,quite rich,>7 years,own,0
+45,management,6993,61,car,rich,<1 year,free,0
+70,management,11259,55,business,quite rich,>7 years,rent,1
+25,highly skilled,5939,20,furniture,rich,unemployed,own,0
+45,management,14973,37,business,rich,<1 year,free,0
+53,highly skilled,10265,33,business,quite rich,<1 year,rent,0
+43,unskilled,13779,27,car,moderate,4-7 years,own,1
+25,unskilled,7011,22,repairs,quite rich,>7 years,rent,1
+67,highly skilled,11983,64,education,quite rich,>7 years,rent,0
+45,unskilled,18130,62,business,little,<1 year,own,0
+45,skilled,2876,31,repairs,little,unemployed,own,0
+54,management,19893,30,education,quite rich,unemployed,own,0
+58,skilled,12324,15,business,quite rich,unemployed,rent,0
+53,management,18711,50,education,little,>7 years,rent,0
+44,unskilled,7479,16,repairs,rich,4-7 years,free,0
+71,skilled,10332,58,furniture,quite rich,<1 year,rent,0
+34,unskilled,13004,33,repairs,moderate,1-4 years,own,0
+26,management,7410,70,car,moderate,4-7 years,rent,0
+50,highly skilled,14589,54,education,moderate,1-4 years,free,0
+70,highly skilled,2696,52,furniture,quite rich,4-7 years,free,1
+37,skilled,6478,57,education,rich,unemployed,own,1
+30,unskilled,17653,59,education,rich,>7 years,own,0
+45,unskilled,1280,65,business,little,1-4 years,free,0
+65,skilled,10408,62,car,quite rich,4-7 years,free,1
+46,highly skilled,6803,52,education,rich,>7 years,free,1
+30,management,15186,36,repairs,quite rich,1-4 years,own,0
+63,skilled,4483,51,repairs,little,<1 year,free,0
+52,management,10003,31,business,little,4-7 years,free,0
+23,highly skilled,17405,10,car,little,<1 year,own,0
+35,unskilled,13570,57,car,moderate,unemployed,rent,0
+68,highly skilled,12732,59,repairs,quite rich,<1 year,rent,0
+22,skilled,5083,38,furniture,little,<1 year,free,0
+64,unskilled,6446,55,business,quite rich,4-7 years,rent,0
+42,skilled,16877,43,business,moderate,unemployed,rent,0
+19,skilled,7628,32,repairs,moderate,<1 year,rent,0
+27,highly skilled,12389,20,repairs,little,>7 years,rent,0
+73,skilled,12775,66,furniture,little,1-4 years,free,0
+47,highly skilled,2961,26,furniture,rich,<1 year,rent,0
+67,unskilled,14791,51,car,quite rich,unemployed,rent,1
+62,highly skilled,14536,11,business,little,<1 year,own,0
+22,unskilled,11935,43,business,rich,1-4 years,free,1
+72,highly skilled,1185,67,repairs,quite rich,unemployed,own,1
+73,management,19044,67,car,little,4-7 years,own,0
+50,management,12758,51,business,rich,unemployed,free,0
+71,skilled,16490,18,car,rich,4-7 years,rent,0
+18,highly skilled,16922,8,car,quite rich,unemployed,own,1
+35,highly skilled,11236,11,repairs,rich,1-4 years,free,1
+49,unskilled,5375,13,car,quite rich,1-4 years,rent,1
+64,skilled,18140,49,furniture,quite rich,unemployed,free,0
+66,highly skilled,11682,38,furniture,quite rich,<1 year,own,0
+28,skilled,2696,55,education,moderate,1-4 years,rent,0
+38,management,7665,16,repairs,rich,4-7 years,rent,0
+43,highly skilled,16497,33,education,quite rich,4-7 years,free,0
+42,highly skilled,14715,46,furniture,little,>7 years,rent,0
+39,skilled,801,21,education,moderate,4-7 years,own,1
+44,highly skilled,17530,53,repairs,moderate,>7 years,own,0
+66,skilled,15071,61,repairs,rich,unemployed,own,0
+30,highly skilled,10451,69,car,quite rich,unemployed,free,0
+50,unskilled,11273,64,business,rich,unemployed,rent,1
+51,skilled,16640,67,car,moderate,<1 year,rent,1
+58,highly skilled,13557,16,repairs,quite rich,<1 year,rent,0
+52,management,13000,23,furniture,little,>7 years,own,0
+18,highly skilled,16421,24,furniture,quite rich,4-7 years,rent,0
+38,management,12370,60,car,moderate,4-7 years,own,1
+65,management,4582,31,repairs,little,unemployed,rent,0
+72,unskilled,14218,11,furniture,quite rich,1-4 years,own,0
+23,skilled,11017,9,repairs,little,<1 year,rent,0
+45,highly skilled,4254,34,furniture,little,<1 year,free,0
+34,unskilled,2224,64,repairs,moderate,unemployed,free,1
+22,highly skilled,1876,22,education,little,<1 year,own,0
+48,management,9206,48,repairs,rich,unemployed,own,0
+22,skilled,9394,71,repairs,moderate,>7 years,rent,0
+55,highly skilled,18537,39,car,rich,4-7 years,rent,0
+20,highly skilled,18950,13,education,little,1-4 years,free,1
+70,management,16906,18,business,rich,4-7 years,rent,0
+40,highly skilled,19344,13,car,quite rich,4-7 years,own,1
+54,highly skilled,6426,70,business,little,>7 years,own,1
+70,management,6751,48,furniture,quite rich,<1 year,own,0
+54,unskilled,9996,44,business,rich,1-4 years,own,0
+27,management,3800,64,repairs,quite rich,<1 year,own,0
+27,unskilled,9053,49,business,little,4-7 years,free,1
+36,skilled,4227,14,car,quite rich,unemployed,free,0
+34,unskilled,17398,42,car,rich,4-7 years,own,0
+38,unskilled,17332,41,business,rich,<1 year,rent,0
+31,skilled,6519,33,car,rich,4-7 years,own,1
+26,unskilled,15963,47,car,little,unemployed,free,0
+63,management,10547,48,business,rich,>7 years,own,0
+18,unskilled,12254,47,education,little,<1 year,free,0
+68,skilled,3020,71,education,quite rich,4-7 years,free,0
+62,management,3581,60,furniture,rich,<1 year,own,1
+30,skilled,1928,53,car,quite rich,>7 years,own,0
+21,skilled,4467,27,business,moderate,4-7 years,rent,1
+18,highly skilled,6945,32,car,quite rich,4-7 years,free,0
+66,highly skilled,15066,18,repairs,moderate,<1 year,rent,0
+57,skilled,14542,50,car,quite rich,<1 year,own,0
+49,skilled,11829,15,car,little,unemployed,free,0
+51,skilled,2659,14,education,quite rich,>7 years,rent,0
+45,highly skilled,5632,59,business,little,unemployed,rent,0
+48,highly skilled,19431,32,car,little,4-7 years,rent,0
+25,unskilled,19863,39,education,rich,<1 year,own,0
+56,unskilled,15433,6,furniture,little,4-7 years,own,0
+43,skilled,10973,37,education,moderate,4-7 years,own,1
+51,management,19533,25,education,rich,1-4 years,free,0
+71,management,11305,40,education,rich,1-4 years,own,0
+71,highly skilled,3583,22,car,quite rich,4-7 years,free,0
+20,highly skilled,17921,23,car,little,<1 year,rent,1
+67,highly skilled,14444,50,furniture,little,4-7 years,rent,1
+29,skilled,8104,58,repairs,moderate,1-4 years,own,0
+18,management,15879,70,repairs,quite rich,<1 year,rent,1
+71,unskilled,19518,6,repairs,quite rich,4-7 years,own,0
+61,skilled,4483,63,furniture,rich,>7 years,free,0
+22,unskilled,2278,31,repairs,rich,>7 years,rent,1
+47,unskilled,5610,25,repairs,rich,4-7 years,own,1
+47,skilled,12587,15,education,moderate,<1 year,rent,0
+74,unskilled,18008,64,car,moderate,4-7 years,rent,1
+34,management,17581,46,car,rich,4-7 years,own,0
+65,unskilled,2679,10,education,quite rich,1-4 years,rent,1
+64,management,10096,70,education,moderate,>7 years,rent,0
+40,management,5751,22,education,quite rich,1-4 years,rent,0
+32,management,9735,27,car,quite rich,1-4 years,rent,0
+54,highly skilled,18813,46,repairs,little,4-7 years,free,0
+38,unskilled,15371,16,education,rich,1-4 years,rent,0
+31,skilled,1513,61,furniture,little,>7 years,rent,0
+19,skilled,17110,56,education,rich,1-4 years,own,0
+28,unskilled,2328,26,business,rich,>7 years,free,0
+68,highly skilled,8409,31,education,quite rich,1-4 years,own,0
+56,highly skilled,6088,24,car,rich,>7 years,own,0
+55,management,13609,65,education,quite rich,1-4 years,own,0
+51,unskilled,2523,52,business,quite rich,1-4 years,free,1
+55,unskilled,15037,31,furniture,rich,<1 year,own,1
+67,skilled,6391,45,repairs,quite rich,>7 years,own,1
+51,unskilled,1580,10,education,quite rich,>7 years,own,0
+35,highly skilled,5536,26,business,quite rich,>7 years,rent,1
+47,unskilled,15879,9,business,moderate,unemployed,own,0
+32,skilled,11322,28,furniture,quite rich,1-4 years,free,0
+44,management,3063,20,car,moderate,>7 years,free,0
+68,skilled,3792,13,education,moderate,unemployed,rent,1
+51,skilled,4086,46,business,quite rich,<1 year,free,0
+69,management,16587,24,furniture,quite rich,>7 years,free,0
+74,skilled,16600,51,repairs,moderate,>7 years,rent,0
+55,skilled,7143,33,business,moderate,unemployed,own,1
+50,unskilled,4459,20,furniture,quite rich,1-4 years,rent,0
+41,unskilled,11505,42,car,quite rich,<1 year,own,0
+32,management,11275,6,car,rich,>7 years,own,0
+47,unskilled,661,29,business,moderate,1-4 years,free,0
+72,unskilled,16529,32,business,moderate,<1 year,rent,0
+59,skilled,17477,45,education,rich,4-7 years,free,0
+68,highly skilled,14726,68,furniture,moderate,4-7 years,free,1
+34,unskilled,11654,66,business,little,<1 year,own,0
+22,highly skilled,12580,41,education,moderate,unemployed,free,0
+46,unskilled,3890,29,education,rich,<1 year,rent,0
+21,unskilled,6497,29,business,little,<1 year,free,0
+27,management,13193,9,car,quite rich,unemployed,free,0
+73,management,17547,39,furniture,rich,unemployed,own,0
+34,management,9824,62,furniture,rich,1-4 years,rent,0
+27,highly skilled,1041,54,car,quite rich,1-4 years,free,1
+34,skilled,5593,58,business,rich,unemployed,own,0
+37,unskilled,13928,28,furniture,moderate,4-7 years,free,0
+41,unskilled,11666,58,business,quite rich,4-7 years,rent,1
+22,unskilled,17751,67,business,rich,<1 year,free,0
+51,highly skilled,16563,46,education,quite rich,>7 years,free,1
+23,management,10758,62,car,quite rich,<1 year,own,0
